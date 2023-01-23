@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "LTC2952CF-PBF")(type "KiCad")(uri "${KIPRJMOD}/LTC2952CF-PBF/LTC2952CF-PBF.pretty")(options "")(descr ""))
+  (lib (name "DMP3036SSD-13")(type "KiCad")(uri "${KIPRJMOD}/DMP3036SSD-13/DMP3036SSD-13.pretty")(options "")(descr ""))
+  (lib (name "PJ-082BH")(type "KiCad")(uri "${KIPRJMOD}/PJ-082BH")(options "")(descr ""))
+  (lib (name "D36V28F5")(type "KiCad")(uri "${KIPRJMOD}/D36V28F5")(options "")(descr ""))
+)

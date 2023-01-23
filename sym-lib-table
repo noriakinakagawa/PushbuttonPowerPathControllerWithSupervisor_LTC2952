@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "LTC2952CF-PBF")(type "KiCad")(uri "${KIPRJMOD}/LTC2952CF-PBF/LTC2952CF-PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "DMP3036SSD-13")(type "KiCad")(uri "${KIPRJMOD}/DMP3036SSD-13/DMP3036SSD-13.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ-082BH")(type "KiCad")(uri "${KIPRJMOD}/PJ-082BH/PJ-082BH.kicad_sym")(options "")(descr ""))
+  (lib (name "D36V28F5")(type "KiCad")(uri "${KIPRJMOD}/D36V28F5/D36V28F5.kicad_sym")(options "")(descr ""))
+)
